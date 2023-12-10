@@ -1,4 +1,4 @@
-[![MasterHead]([https://media1.tenor.com/m/cKgOapMuyWcAAAAC/coding-developer-code.gif])](https://rishavchanda.io)
+[![MasterHead]([https://media1.tenor.com/m/cKgOapMuyWcAAAAC/coding-developer-code.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed Ali Ben Mariem</h1>
 <h3 align="center">A passionate full stack web developer from Tunisia</h3>
 
