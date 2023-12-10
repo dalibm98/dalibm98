@@ -3,7 +3,11 @@
 
 
 <!-- Ajoutez le style CSS directement pour redimensionner l'image -->
-<img align="center" alt="MasterHead" width="60%" style="max-width: 2000px;" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+[![MasterHead](https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656n742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966)](https://rishavchanda.io)
+
+<!-- Style CSS pour que l'image prenne toute la largeur du header -->
+<img align="center" alt="MasterHead" width="100%" style="width: 100%; object-fit: cover;" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656n742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+
 
 
 
